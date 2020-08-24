@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--    actionButton Color-->
+    <color name="actionButton">#A17E5B</color>
+    <!--    numberButton Color-->
+    <color name="numberButton">#455A64</color>
+    <!--    Text Color-->
+    <color name="textColor">#ffffff</color>
+    <!--    Black Color-->
+    <color name="colorBlack">#000000</color>
+    <!--    White Color-->
+    <color name="colorWhite">#FFFFFF</color>
+    <!--    Red Color-->
+    <color name="redColor">#FF0000</color>
+    <!--    Green Color-->
+    <color name="greenColor">#11C511</color>
+    <!--    SignInButton Color-->
+    <color name="colorSignInButton">#F814181A</color>
+</resources>

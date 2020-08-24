@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">The MADS Calculator</string>
+    <string name="history">History</string>
+
+    <!--    Numbers-->
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+
+    <!--    Operations-->
+    <string name="multiplication">*</string>
+    <string name="subtraction">-</string>
+    <string name="addition">+</string>
+    <string name="divide">/</string>
+
+    <string name="ce">CE</string>
+    <string name="equal">=</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="user_id">User ID</string>
+</resources>
